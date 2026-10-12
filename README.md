@@ -4,6 +4,8 @@
   <strong>English</strong> | <a href="./README.zh-CN.md">中文</a>
 </p>
 
+> **This automated workflow has already grown my WeChat Official Account by 5,000 followers.**
+
 An agent skill that runs the whole WeChat Official Account (微信公众号) writing workflow:
 
 ```text

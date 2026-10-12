@@ -4,6 +4,8 @@
   <a href="./README.md">English</a> | <strong>中文</strong>
 </p>
 
+> **这套自动化工作流已经帮我的公众号涨粉 5000。**
+
 一个给 AI 助手用的 Skill，把公众号写作的完整流程串起来：
 
 ```text
