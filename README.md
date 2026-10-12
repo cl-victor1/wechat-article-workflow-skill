@@ -1,5 +1,7 @@
 # WeChat Article Workflow Skill
 
+**Follow me for more:** X [@victor_UWer](https://x.com/victor_UWer) · WeChat Official Account「从0到AI」
+
 <p align="center">
   <strong>English</strong> | <a href="./README.zh-CN.md">中文</a>
 </p>

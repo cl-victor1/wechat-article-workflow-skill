@@ -1,5 +1,7 @@
 # 微信公众号写作全流程 Skill
 
+**更多分享欢迎关注：** X [@victor_UWer](https://x.com/victor_UWer) · 微信公众号「从0到AI」
+
 <p align="center">
   <a href="./README.md">English</a> | <strong>中文</strong>
 </p>
