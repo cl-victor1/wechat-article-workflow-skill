@@ -1,0 +1,8 @@
+# Credentials and run output never go into the repository
+.wxpub/
+.env
+.env.*
+output/
+node_modules/
+*.log
+.DS_Store

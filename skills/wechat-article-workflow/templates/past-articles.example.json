@@ -1,0 +1,7 @@
+[
+  {
+    "_comment": "从公众号后台「内容管理 → 已发表」逐篇复制真实链接。微信会校验 mp.weixin.qq.com/s/ 链接是否存在，假链接会让 draft/add 返回 45166。",
+    "title": "示例：把这一条整个删掉，用 wxpub past add 添加真实文章",
+    "url": "https://example.com/replace-me"
+  }
+]

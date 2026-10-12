@@ -1,0 +1,14 @@
+{
+  "name": "wechat-article-workflow-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WeChat Official Account article workflow skill for Claude Code and other agents",
+  "type": "module",
+  "scripts": {
+    "test": "node skills/wechat-article-workflow/scripts/wxpub.mjs selftest"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

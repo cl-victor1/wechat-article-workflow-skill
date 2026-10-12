@@ -1,0 +1,19 @@
+[
+  {
+    "name": "AI",
+    "keywords": ["AI", "Claude", "GPT", "模型", "Agent", "提示词", "OpenClaw", "Cursor"],
+    "default": true
+  },
+  {
+    "name": "创业",
+    "keywords": ["创业", "SaaS", "MRR", "融资", "YC", "独立开发", "出海"]
+  },
+  {
+    "name": "增长",
+    "keywords": ["增长", "获客", "SEO", "关键词", "流量", "转化", "Reddit"]
+  },
+  {
+    "name": "产品设计",
+    "keywords": ["产品", "设计", "落地页", "交互", "用户体验"]
+  }
+]

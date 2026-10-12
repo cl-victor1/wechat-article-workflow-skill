@@ -1,0 +1,14 @@
+{
+  "name": "wechat-article-workflow-skill",
+  "description": "WeChat Official Account (微信公众号) article workflow skill: from topic discovery to layout and drafts-box publishing",
+  "owner": {
+    "name": "cl-victor1"
+  },
+  "plugins": [
+    {
+      "name": "wechat-article-workflow",
+      "source": "./",
+      "description": "WeChat Official Account (微信公众号) workflow: topic radar, writing rules, cover image, themed layout, phone preview, and drafts-box publishing"
+    }
+  ]
+}

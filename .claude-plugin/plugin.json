@@ -1,0 +1,11 @@
+{
+  "name": "wechat-article-workflow",
+  "version": "1.0.0",
+  "description": "WeChat Official Account (微信公众号) workflow: topic radar, writing rules, cover image, themed layout, phone preview, and drafts-box publishing",
+  "author": {
+    "name": "cl-victor1"
+  },
+  "repository": "https://github.com/cl-victor1/wechat-article-workflow-skill",
+  "license": "MIT",
+  "keywords": ["wechat", "weixin", "公众号", "微信", "排版", "选题", "markdown", "publishing"]
+}
